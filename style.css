@@ -1,0 +1,12 @@
+.judul {
+    display: block;
+    text-align: center;
+}
+
+.judul img {
+    border-radius: 1cm;
+    padding: 1rem;
+    background-color: rgb(127, 255, 187);
+}
+
+
